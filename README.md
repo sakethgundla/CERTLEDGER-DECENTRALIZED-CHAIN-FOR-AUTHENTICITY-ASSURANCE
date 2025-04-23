@@ -20,6 +20,7 @@ This project allows institutes to issue digital certificates secured with blockc
 ->Thus, this is a modern and hassle-free solution to manage and verify certificates!
 
 **Flow of project:**
+
 Both users will be able to login using the Metamask and in Metamask accounts. We have already kept RPC from Ganache. So we will have a test ETH in the account.
 
 **METAMASK**
@@ -27,30 +28,31 @@ Both users will be able to login using the Metamask and in Metamask accounts. We
 
 
 **Ganache**  
-<img src="https://github.com/user-attachments/assets/2b49ac40-aa42-4564-88c2-c7490a1c1711" width="250"/>
+<img src="https://github.com/user-attachments/assets/2b49ac40-aa42-4564-88c2-c7490a1c1711" width="400"/>
 
 **Home Page:**  
-<img src="https://github.com/user-attachments/assets/7f442d74-75f8-4d9d-b344-e95812daf17d" width="250"/>
+<img src="https://github.com/user-attachments/assets/7f442d74-75f8-4d9d-b344-e95812daf17d" width="400"/>
 
 **Institute Login:**  
-<img src="https://github.com/user-attachments/assets/305e9519-7a82-413a-ad2b-f96ba36f2218" width="250"/>
+<img src="https://github.com/user-attachments/assets/305e9519-7a82-413a-ad2b-f96ba36f2218" width="400"/>
 
 ->Form to be filled by the institute as certificate details:  
-<img src="https://github.com/user-attachments/assets/5b913df9-5631-4512-aec3-659e3a0b55d2" width="250"/>
+<img src="https://github.com/user-attachments/assets/5b913df9-5631-4512-aec3-659e3a0b55d2" width="400"/>
 
 -> Then the ETH transaction to issue the certificate:  
-<img src="https://github.com/user-attachments/assets/1dc1b68a-6c7d-48dc-905e-4295a1349ebf" width="250"/>
+<img src="https://github.com/user-attachments/assets/1dc1b68a-6c7d-48dc-905e-4295a1349ebf" width="400"/>
 
 ->Certificate issued successfully:  
-<img src="https://github.com/user-attachments/assets/c65b23b5-1e23-43ce-b386-0a9a60bf99ae" width="250"/>
+<img src="https://github.com/user-attachments/assets/c65b23b5-1e23-43ce-b386-0a9a60bf99ae" width="400"/>
 
 -> Recent certificates that have been issued and to whom they have been issued:  
-<img src="https://github.com/user-attachments/assets/929eb2b9-4337-4177-8ea2-4c5d15927569" width="250"/>
+<img src="https://github.com/user-attachments/assets/929eb2b9-4337-4177-8ea2-4c5d15927569" width="400"/>
 
 ->The certificate will be sent to the student by the Metamask wallet ID:  
 **Student Login**  
-<img src="https://github.com/user-attachments/assets/d8609fb4-ca1b-4a10-9cee-b194fe028997" width="250"/>  
-<img src="https://github.com/user-attachments/assets/1c58085b-fca0-4692-8e3f-921001950ace" width="250"/>
+<img src="https://github.com/user-attachments/assets/d8609fb4-ca1b-4a10-9cee-b194fe028997" width="400"/>  
+<img src="https://github.com/user-attachments/assets/1c58085b-fca0-4692-8e3f-921001950ace" width="400"/>
+
 
 -> The student can view and download the certificate.
 
