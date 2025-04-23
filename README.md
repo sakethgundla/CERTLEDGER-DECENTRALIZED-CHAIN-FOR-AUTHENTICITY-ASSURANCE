@@ -33,10 +33,10 @@ Both users will be able to login using the Metamask and in Metamask accounts. We
 ![WhatsApp Image 2025-04-23 at 21 00 45_a7cda521](https://github.com/user-attachments/assets/5b913df9-5631-4512-aec3-659e3a0b55d2)
 -> Then the ETH transaction to issue the certificate:
 ![image](https://github.com/user-attachments/assets/1dc1b68a-6c7d-48dc-905e-4295a1349ebf)
--> Recent certificates that have been issued and to whom they have been issued:
-![WhatsApp Image 2025-04-23 at 21 00 45_022bba0c](https://github.com/user-attachments/assets/929eb2b9-4337-4177-8ea2-4c5d15927569)
 ->Certificate issued successfully:
 ![WhatsApp Image 2025-04-23 at 21 00 46_24e0ec61](https://github.com/user-attachments/assets/c65b23b5-1e23-43ce-b386-0a9a60bf99ae)
+-> Recent certificates that have been issued and to whom they have been issued:
+![WhatsApp Image 2025-04-23 at 21 00 45_022bba0c](https://github.com/user-attachments/assets/929eb2b9-4337-4177-8ea2-4c5d15927569)
 ->The certificate will be sent to the student by the Metamask wallet ID:
 **Student Login**
 ![WhatsApp Image 2025-04-23 at 21 00 46_5ea940cb](https://github.com/user-attachments/assets/d8609fb4-ca1b-4a10-9cee-b194fe028997)
