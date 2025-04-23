@@ -21,6 +21,7 @@ This project allows institutes to issue digital certificates secured with blockc
 
 **Flow of project:**
 Both users will be able to login using the Metamask and in Metamask accounts. We have already kept RPC from Ganache. So we will have a test ETH in the account.
+
 **METAMASK**
 <img src="https://github.com/user-attachments/assets/803daaff-2232-4e81-bd89-a2f54c40af37" width="250"/>
 
