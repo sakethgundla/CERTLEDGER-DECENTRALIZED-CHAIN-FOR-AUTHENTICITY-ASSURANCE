@@ -23,24 +23,34 @@ This project allows institutes to issue digital certificates secured with blockc
 Both users will be able to login using the Metamask and in Metamask accounts. We have already kept RPC from Ganache. So we will have a test ETH in the account.
 **METAMASK**
 <img src="https://github.com/user-attachments/assets/803daaff-2232-4e81-bd89-a2f54c40af37" width="250"/>
-**Ganache**
-![image](https://github.com/user-attachments/assets/2b49ac40-aa42-4564-88c2-c7490a1c1711)
-**Home Page:**
-![WhatsApp Image 2025-04-23 at 21 00 43_b6086361](https://github.com/user-attachments/assets/7f442d74-75f8-4d9d-b344-e95812daf17d)
-**Institute Login:**
-![WhatsApp Image 2025-04-23 at 21 00 44_ca3a7249](https://github.com/user-attachments/assets/305e9519-7a82-413a-ad2b-f96ba36f2218)
-->Form to be filled by the institute as certificate details:
-![WhatsApp Image 2025-04-23 at 21 00 45_a7cda521](https://github.com/user-attachments/assets/5b913df9-5631-4512-aec3-659e3a0b55d2)
--> Then the ETH transaction to issue the certificate:
-![image](https://github.com/user-attachments/assets/1dc1b68a-6c7d-48dc-905e-4295a1349ebf)
-->Certificate issued successfully:
-![WhatsApp Image 2025-04-23 at 21 00 46_24e0ec61](https://github.com/user-attachments/assets/c65b23b5-1e23-43ce-b386-0a9a60bf99ae)
--> Recent certificates that have been issued and to whom they have been issued:
-![WhatsApp Image 2025-04-23 at 21 00 45_022bba0c](https://github.com/user-attachments/assets/929eb2b9-4337-4177-8ea2-4c5d15927569)
-->The certificate will be sent to the student by the Metamask wallet ID:
-**Student Login**
-![WhatsApp Image 2025-04-23 at 21 00 46_5ea940cb](https://github.com/user-attachments/assets/d8609fb4-ca1b-4a10-9cee-b194fe028997)
-![WhatsApp Image 2025-04-23 at 21 00 47_88956e04](https://github.com/user-attachments/assets/1c58085b-fca0-4692-8e3f-921001950ace)
+
+
+**Ganache**  
+<img src="https://github.com/user-attachments/assets/2b49ac40-aa42-4564-88c2-c7490a1c1711" width="250"/>
+
+**Home Page:**  
+<img src="https://github.com/user-attachments/assets/7f442d74-75f8-4d9d-b344-e95812daf17d" width="250"/>
+
+**Institute Login:**  
+<img src="https://github.com/user-attachments/assets/305e9519-7a82-413a-ad2b-f96ba36f2218" width="250"/>
+
+->Form to be filled by the institute as certificate details:  
+<img src="https://github.com/user-attachments/assets/5b913df9-5631-4512-aec3-659e3a0b55d2" width="250"/>
+
+-> Then the ETH transaction to issue the certificate:  
+<img src="https://github.com/user-attachments/assets/1dc1b68a-6c7d-48dc-905e-4295a1349ebf" width="250"/>
+
+->Certificate issued successfully:  
+<img src="https://github.com/user-attachments/assets/c65b23b5-1e23-43ce-b386-0a9a60bf99ae" width="250"/>
+
+-> Recent certificates that have been issued and to whom they have been issued:  
+<img src="https://github.com/user-attachments/assets/929eb2b9-4337-4177-8ea2-4c5d15927569" width="250"/>
+
+->The certificate will be sent to the student by the Metamask wallet ID:  
+**Student Login**  
+<img src="https://github.com/user-attachments/assets/d8609fb4-ca1b-4a10-9cee-b194fe028997" width="250"/>  
+<img src="https://github.com/user-attachments/assets/1c58085b-fca0-4692-8e3f-921001950ace" width="250"/>
+
 -> The student can view and download the certificate.
 
 ->As each certificate is generated, the certificates consist of a certificate ID and the issuing by, So using the certificate if anyone can verify the certificate.
