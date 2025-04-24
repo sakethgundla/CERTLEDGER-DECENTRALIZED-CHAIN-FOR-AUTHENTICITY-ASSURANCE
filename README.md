@@ -85,7 +85,8 @@ Both users will be able to login using the Metamask and in Metamask accounts. We
 -> The certificate id is entered, and we can know the authenticity of the certificate.
 
 
-![image](https://github.com/user-attachments/assets/f1e637d8-a75e-4b5c-be91-22f4431aa166)
+![image](https://github.com/user-attachments/assets/11beeb35-f2b7-4300-a100-a0d4bf802a00)
+<img src="<img src="https://github.com/user-attachments/assets/1c58085b-fca0-4692-8e3f-921001950ace" width="390"/>" width="400"/>
 
 
 As every detail is given as it provides authenticity.
