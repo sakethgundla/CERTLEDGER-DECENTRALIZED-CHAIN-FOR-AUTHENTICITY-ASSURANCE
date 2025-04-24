@@ -77,6 +77,7 @@ Both users will be able to login using the Metamask and in Metamask accounts. We
 ->As each certificate is generated, the certificates consist of a certificate ID and the issuing by, So using the certificate if anyone can verify the certificate.
 
 **Verification of Certificate**
+
 -> The certificate id is entered, and we can know the authenticity of the certificate.
 
 
