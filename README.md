@@ -66,7 +66,9 @@ Both users will be able to login using the Metamask and in Metamask accounts. We
 <img src="https://github.com/user-attachments/assets/929eb2b9-4337-4177-8ea2-4c5d15927569" width="400"/>
 
 ->The certificate will be sent to the student by the Metamask wallet ID:  
+
 **Student Login**  
+
 <img src="https://github.com/user-attachments/assets/d8609fb4-ca1b-4a10-9cee-b194fe028997" width="400"/>  
 <img src="https://github.com/user-attachments/assets/1c58085b-fca0-4692-8e3f-921001950ace" width="400"/>
 
