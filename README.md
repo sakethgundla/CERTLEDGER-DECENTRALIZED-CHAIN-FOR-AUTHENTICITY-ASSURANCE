@@ -45,6 +45,8 @@ Both users will be able to login using the Metamask and in Metamask accounts. We
 
 
 **Ganache**  
+
+
 <img src="https://github.com/user-attachments/assets/2b49ac40-aa42-4564-88c2-c7490a1c1711" width="400"/>
 
 **Home Page:**  
@@ -70,7 +72,7 @@ Both users will be able to login using the Metamask and in Metamask accounts. We
 **Student Login**  
 
 <img src="https://github.com/user-attachments/assets/d8609fb4-ca1b-4a10-9cee-b194fe028997" width="400"/>  
-<img src="https://github.com/user-attachments/assets/1c58085b-fca0-4692-8e3f-921001950ace" width="400"/>
+<img src="https://github.com/user-attachments/assets/1c58085b-fca0-4692-8e3f-921001950ace" width="380"/>
 
 
 
