@@ -4,19 +4,33 @@
 This project allows institutes to issue digital certificates secured with blockchain technology. The data is immutable and tamper-proof, ensuring authenticity and easy verification, while eliminating the risk of forgery and reducing manual validation efforts.
 
 ->This system leverages blockchain technology to issue, manage, and verify digital academic certificates in a secure, transparent, and decentralized way, eliminating traditional risks like forgery, loss, and inefficiencies.
+
 ->System Architecture and Components
+
 ->Users authenticate via MetaMask wallets.
+
 **Role-based dashboards:**
+
 ->Institute Dashboard for authorized personnel.
+
 ->Student Dashboard for learners.
+
 ->Smart contracts on the Ethereum blockchain handle:
+
 ->Certificate issuance
+
 ->Certificate verification
+
 ->Secure storage on blockchain (Certificate Chain & Correction Chain for edits)
+
 ->It is a blockchain-based project for online certificate issuing and validation for an institute.
+
 ->The major problem of counterfeit certificates can be tackled, as it provides a solution to preserve the immutability of a certificate.
+
 ->It works on the idea that: “Only the institute can upload the certificate and the rest people can only view it.” The entire process works on the blockchain in partnership with the smart contracts.
+
 ->Does Everything for Certificates: Storing, Validating, and issuing.
+
 ->Thus, this is a modern and hassle-free solution to manage and verify certificates!
 
 **Flow of project:**
